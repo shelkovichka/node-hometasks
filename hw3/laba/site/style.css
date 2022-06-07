@@ -1,0 +1,34 @@
+* {
+    color: violet;
+}
+
+body {
+    font-size: 18px;
+}
+
+h1 {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+
+#logo {
+    position: fixed;
+    top: 10vh;
+    height: 130px;
+    width: 130px;
+    border-radius: 50%;
+}
+
+#photo {
+
+}
+
+a {
+    text-decoration: none;
+    font-weight: bold;
+}
+
+div {
+    margin-top: 20vh;
+}
